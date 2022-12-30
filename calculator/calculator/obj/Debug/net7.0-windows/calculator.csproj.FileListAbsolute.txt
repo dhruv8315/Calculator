@@ -1,0 +1,17 @@
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\bin\Debug\net7.0-windows\calculator.exe
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\bin\Debug\net7.0-windows\calculator.deps.json
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\bin\Debug\net7.0-windows\calculator.runtimeconfig.json
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\bin\Debug\net7.0-windows\calculator.dll
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\bin\Debug\net7.0-windows\calculator.pdb
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\obj\Debug\net7.0-windows\calculator.csproj.AssemblyReference.cache
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\obj\Debug\net7.0-windows\calculator.Form1.resources
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\obj\Debug\net7.0-windows\calculator.csproj.GenerateResource.cache
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\obj\Debug\net7.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\obj\Debug\net7.0-windows\calculator.AssemblyInfoInputs.cache
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\obj\Debug\net7.0-windows\calculator.AssemblyInfo.cs
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\obj\Debug\net7.0-windows\calculator.csproj.CoreCompileInputs.cache
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\obj\Debug\net7.0-windows\calculator.dll
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\obj\Debug\net7.0-windows\refint\calculator.dll
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\obj\Debug\net7.0-windows\calculator.pdb
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\obj\Debug\net7.0-windows\calculator.genruntimeconfig.cache
+C:\Users\dhruv\Documents\Projects\C# project\calculator\calculator\obj\Debug\net7.0-windows\ref\calculator.dll
